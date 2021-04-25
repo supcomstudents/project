@@ -1,0 +1,33 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: black;
+}
+header{
+    background-color: chartreuse;
+    padding: 10px;
+    text-align: center;
+
+}
+footer{
+    background-color:chartreuse;
+    text-align:center;
+    padding:10px;
+    margin-top:12px;
+}
+li ul  {
+    display: inline-block;
+    margin-right: 155px;
+}
+h2 ,h3  {
+    text-align: center;
+}
+
+a {
+    display: inline-block;
+    margin-right: 200px;
+
+}
+p{
+    font-size: 30px;
+}
